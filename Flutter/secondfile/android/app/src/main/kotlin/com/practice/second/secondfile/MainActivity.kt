@@ -1,0 +1,6 @@
+package com.practice.second.secondfile
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
