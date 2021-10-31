@@ -1,6 +1,6 @@
 # muzik
 
-playing Music from the internat
+A new Flutter application.
 
 ## Getting Started
 
