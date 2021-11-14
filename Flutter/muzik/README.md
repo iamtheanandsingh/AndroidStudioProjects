@@ -1,6 +1,6 @@
 # muzik
 
-A new Flutter application.
+An Application To Play Music From Server
 
 ## Getting Started
 
